@@ -24,6 +24,6 @@ Python-разработчик, окончивший расширенный ку�
 
 *Контакты и ссылки*
 -
-- Email: 
-- Telegram: 
-- GitHub
+- Email: win100n1@mail.ru
+- Telegram: @Konstantin_Lukoyanov
+- GitHub: 
